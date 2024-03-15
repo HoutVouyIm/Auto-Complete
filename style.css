@@ -31,4 +31,15 @@ input{
     font-size: 18px;
     color: #333;
 }
+/* button {
+    background: transparent !important;
+    border: 0 !important;
+    outline: 0 !important;
+} */
+/* button .fa-solid{
+    width: 25px;
+    color: #555;
+    font-size: 22px;
+    cursor: pointer;
+} */
 
